@@ -56,20 +56,6 @@ Online book shoppers often face poor navigation, inadequate search features, and
 
 ---
 
-## 📦 Installation & Setup
-
-```bash
-# Clone the repository
-git clone https://github.com/your-username/booknest.git
-cd booknest
-
-# Install frontend dependencies
-cd client
-npm install
-
-# Install backend dependencies
-cd ../server
-npm install
 
 # Start backend server
 npm start
