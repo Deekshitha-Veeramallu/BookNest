@@ -57,9 +57,3 @@ Online book shoppers often face poor navigation, inadequate search features, and
 ---
 
 
-# Start backend server
-npm start
-
-# Start frontend dev server
-cd ../client
-npm start
